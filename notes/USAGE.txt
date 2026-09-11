@@ -1,0 +1,2 @@
+/* rev-b8f21d-20260911 USAGE.txt */
+run as admin, autopilot scans titles, apply, enable in game menu

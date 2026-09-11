@@ -1,0 +1,2 @@
+/* rev-b8f21d-20260911 CHANGELOG.txt */
+v1.0.0 auto detect, profiles, rtx 50 gate
